@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF: - 1,REGIO
+http://regioflix.club/j20/tv.m3u
+
+#EXTINF: - 2,PELICULAS
+http://regioflix.club/j20/regioflix.m3u
